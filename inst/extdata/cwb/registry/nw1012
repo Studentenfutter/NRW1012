@@ -1,0 +1,42 @@
+##
+## registry entry for corpus NW1012
+##
+
+# long descriptive name for the corpus
+NAME "NW1012"
+# corpus ID (must be lowercase in registry!)
+ID   nw1012
+# path to binary data files
+HOME /media/user/Data/MA/data/corpora/teicwb_NW/pkg/inst/extdata/cwb/indexed_corpora/nw1012
+# optional info file (displayed by ",info;" command in CQP)
+INFO /media/user/Data/MA/data/corpora/teicwb_NW/pkg/inst/extdata/cwb/indexed_corpora/nw1012/.info
+
+# corpus properties provide additional information about the corpus:
+##:: charset = "utf8"
+#========================================================================#
+
+
+##
+## p-attributes (token annotations)
+##
+
+ATTRIBUTE word
+ATTRIBUTE pos
+ATTRIBUTE lemma
+ATTRIBUTE ner
+
+##
+## s-attributes
+##
+
+STRUCTURE speaker
+STRUCTURE party
+STRUCTURE role
+STRUCTURE name
+STRUCTURE position
+STRUCTURE lp
+STRUCTURE session
+STRUCTURE date
+STRUCTURE stage_type
+STRUCTURE agenda_item
+STRUCTURE agenda_item_type

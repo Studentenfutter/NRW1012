@@ -1,0 +1,14 @@
+Package: nw1012
+Type: Package
+Title: /media/user/Data/MA/data/corpora/teicwb_NW/pkg
+Version: 1.0
+Date: 2020-04-30
+Author: Gilberg Florian <florian.gilberg@posteo.de> [cre]
+	Bl<c3><a4>tte Andreas <andreas.blaette at uni-due.de> [aut]
+Maintainer: Florian Gilberg <florian.gilberg@uni-due.de>
+Depends:
+LazyData: yes
+Description: Corpus of Plenary Protocols of North Rhine-Westphalia State Parliament, legislative periods 10-12
+License: CC-BY-NC-SA | file LICENSE
+NeedsCompilation: no
+Packaged: 2020-04-30 15:51:00 UTC; user

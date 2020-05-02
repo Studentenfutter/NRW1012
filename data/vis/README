@@ -1,0 +1,11 @@
+# Topicmodel visulaisation
+
+These files provide an interactive topic model visualisation, which was used to label the topics.
+
+Both the topic model and the interactive visualisation were created using the `text2vec`-package for R.
+
+To display the visualisation, this directory must be served by a web server (e.g. Apache, NGINX).
+
+To serve this display from R, use the `servr`-package:
+
+`servr::httd(directory)`

@@ -7,9 +7,9 @@ NAME "NW1012"
 # corpus ID (must be lowercase in registry!)
 ID   nw1012
 # path to binary data files
-HOME /media/user/Data/MA/data/corpora/teicwb_NW/pkg/inst/extdata/cwb/indexed_corpora/nw1012
+HOME /home/user/R/x86_64-pc-linux-gnu-library/3.6/00LOCK-nw1012/00new/nw1012/extdata/cwb/indexed_corpora/nw1012
 # optional info file (displayed by ",info;" command in CQP)
-INFO /media/user/Data/MA/data/corpora/teicwb_NW/pkg/inst/extdata/cwb/indexed_corpora/nw1012/.info
+INFO /home/user/R/x86_64-pc-linux-gnu-library/3.6/00LOCK-nw1012/00new/nw1012/extdata/cwb/indexed_corpora/nw1012/.info
 
 # corpus properties provide additional information about the corpus:
 ##:: charset = "utf8"
@@ -39,3 +39,6 @@ STRUCTURE date
 STRUCTURE stage_type
 STRUCTURE agenda_item
 STRUCTURE agenda_item_type
+STRUCTURE speech
+STRUCTURE topics
+STRUCTURE top2_topics

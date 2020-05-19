@@ -1,4 +1,4 @@
-# NW1012 - Corpus of Plenary Protocols of Hessen State Parliament, legislative periods 9-11 (build 2020-05-01)
+# NW1012 - Corpus of Plenary Protocols of Hessen State Parliament, legislative periods 9-11 (build 2020-05-02)
 
 #### About
 
@@ -21,3 +21,4 @@ Many thanks to Andreas Blätte for providing access to his parsing tools for ple
 
 Proprietary.
 Corpus created using not yet published frappp-Package by Andreas Blätte. Do not distribute.
+
